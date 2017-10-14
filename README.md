@@ -9,6 +9,8 @@ Prog.kiev.ua. Java Start. Группа 63
 
 [Java Start. Богдан. Группа 63. Лекции 5-6 (07.10.2017)](https://prog.kiev.ua/forum/index.php/topic,3192.0.html)
 
+[Java Start. Богдан. Группа 63. Лекции 7-8 (14.10.2017)](https://prog.kiev.ua/forum/index.php/topic,3208.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
